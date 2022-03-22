@@ -1,0 +1,1 @@
+infoSaver=Frame(root,width=)
