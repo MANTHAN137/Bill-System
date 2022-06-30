@@ -1,6 +1,5 @@
 # Bill-System
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MANTHAN137&repo=Bill-System-Using-Python-Tkinter
-)
+
 
 ![Screenshot (46)](https://user-images.githubusercontent.com/90518833/162698737-46049630-0062-448c-a119-5406ca884f96.png)
 ![Screenshot (47)](https://user-images.githubusercontent.com/90518833/162698778-5849ef11-aa2b-4ccd-a616-36c8c4118f64.png)
